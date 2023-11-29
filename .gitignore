@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# IDE related directories
+.vscode/
+
+# Directories which contains build files
+bin/
+
+# Samples directories for developer testings
+samples/
